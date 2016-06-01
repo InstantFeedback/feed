@@ -1,0 +1,4 @@
+Instrucciones de instalación: 
+1.- Exportar la base de datos feed.sql 
+2.- Guardar todos los demás archivos en las carpetas htdocs para el caso de xampp, o www en el caso de wamp
+3.- Ejecutar el servidor localhost, la página principal es http://localhost/feed/login.php
